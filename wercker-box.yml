@@ -1,0 +1,12 @@
+name: ubuntu12.04-chef
+version: 1.0.0
+description: Base box to use for running chef recipes
+type : main
+platform : ubuntu@12.04
+keywords :
+  - chef
+packages :
+  - chef@11.10.0
+script : |
+  cd $WERCKER_ROOT 
+  ./install.sh
