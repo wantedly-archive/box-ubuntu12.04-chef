@@ -1,6 +1,6 @@
 name: ubuntu12.04-chef
 version: 0.0.1
-description: Base box to use for running chef recipes
+description: Base box with Chef 11.10.0 installed to use for running chef recipes
 type : main
 platform : ubuntu@12.04
 keywords :
