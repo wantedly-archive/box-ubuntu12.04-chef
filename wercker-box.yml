@@ -1,5 +1,5 @@
 name: ubuntu12.04-chef
-version: 1.0.0
+version: 0.0.1
 description: Base box to use for running chef recipes
 type : main
 platform : ubuntu@12.04
